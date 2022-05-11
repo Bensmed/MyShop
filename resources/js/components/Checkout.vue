@@ -1,6 +1,6 @@
 <template>
 
-<section class="card-shop" style="margin-top: 130px;">
+<section class="card-shop">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">

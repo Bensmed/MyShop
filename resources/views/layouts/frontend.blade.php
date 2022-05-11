@@ -119,11 +119,9 @@ $facebook_pixel = $settings->facebook_pixel;
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
 
-    <script src="https://code.iconify.design/2/2.2.0/iconify.min.js">
-    </script>
+    <script src="https://code.iconify.design/2/2.2.0/iconify.min.js"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js">
-    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js"></script>
 
     <!--====== Font Awesome icon ======-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -466,6 +464,8 @@ $facebook_pixel = $settings->facebook_pixel;
                         <div class="col-lg-12">
                             <div class="copyright text-center">
                                 <p>Powred by <a href="https://handelp.com" target=”_blank”>Handelp Agency</a></p>
+                                <p>Developed by <a href="https://www.linkedin.com/in/mohammed-bensouna/"
+                                        target=”_blank”>Bensouna</a></p>
                             </div> <!-- copyright -->
                         </div>
                     </div> <!-- row -->

@@ -14,7 +14,6 @@
 
             background: #fff;
             font-size: 16px;
-            line-height: 22.4px;
             color: #6b7380;
             font-family: "Source Sans Pro", sans-serif;
             color: #383838;
@@ -65,14 +64,6 @@
             line-height: 18px;
         }
 
-        p {
-            margin: 0 0 20px;
-            line-height: 1.8;
-        }
-
-        p:last-child {
-            margin: 0px;
-        }
 
         ul,
         ol {}
@@ -100,8 +91,8 @@
 
 
         /*------------------------
-                                                                                                                                                                                                                                                                                                                                                        Radio & Checkbox CSS
-                                                                                                                                                                                                                                                                                                                                                        -------------------------*/
+                                                                                                                                                                                                                                                                                                                                                                                Radio & Checkbox CSS
+                                                                                                                                                                                                                                                                                                                                                                                -------------------------*/
         .form-control {
             border-radius: 4px;
             font-size: 14px;
